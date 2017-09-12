@@ -1,7 +1,43 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/main/java/com/sproutsocial/homework/resources/TwitterIdResourceBase.java - [homework]'" />
-    <option name="defaultScopeName" value="File '.../src/main/java/com/sproutsocial/homework/resources/TwitterIdResourceBase.java - [homework]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/sproutsocial/homework/resources/TwitterIdResourceBase.java - [homework]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.java</mask>
+      <mask>^</mask>
+      <mask>^B</mask>
+      <mask>^Ber</mask>
+      <mask>^Berk</mask>
+      <mask>^Berks</mask>
+      <mask>^Berksfi</mask>
+      <mask>^Berksfile</mask>
+      <mask>Berksfile</mask>
+      <mask>!Berksfile</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
+      <mask>.py</mask>
+      <mask>u.py</mask>
+      <mask>ur.py</mask>
+      <mask>urld.py</mask>
+      <mask>url.py</mask>
+      <mask>urls.py</mask>
+    </recentFileMasks>
   </component>
 </application>

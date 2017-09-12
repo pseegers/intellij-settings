@@ -1,0 +1,8 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="MethodUp" />
+      <action id="MethodDown" />
+    </abbreviations>
+  </component>
+</application>
