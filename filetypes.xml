@@ -16,6 +16,7 @@
       <mapping pattern="replies" type="JSON" />
       <mapping pattern="fb_private_message" type="JSON" />
       <mapping pattern="dummy" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="box" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
