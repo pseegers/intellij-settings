@@ -10,13 +10,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
       <mask>^</mask>
@@ -28,9 +21,6 @@
       <mask>^Berksfile</mask>
       <mask>Berksfile</mask>
       <mask>!Berksfile</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
       <mask>.py</mask>
       <mask>u.py</mask>
@@ -38,6 +28,18 @@
       <mask>urld.py</mask>
       <mask>url.py</mask>
       <mask>urls.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pi</mask>
+      <mask>hadoop/*.pig</mask>
+      <mask>hadoop*.pig</mask>
+      <mask>hadoo*.pig</mask>
+      <mask>hado*.pig</mask>
+      <mask>had*.pig</mask>
+      <mask>ha*.pig</mask>
+      <mask>h*.pig</mask>
+      <mask>*.pig</mask>
     </recentFileMasks>
   </component>
 </application>
