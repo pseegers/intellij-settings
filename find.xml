@@ -9,12 +9,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="urls.py" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.java</mask>
-      <mask>^</mask>
-      <mask>^B</mask>
-      <mask>^Ber</mask>
       <mask>^Berk</mask>
       <mask>^Berks</mask>
       <mask>^Berksfi</mask>
@@ -27,9 +23,6 @@
       <mask>ur.py</mask>
       <mask>urld.py</mask>
       <mask>url.py</mask>
-      <mask>urls.py</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pi</mask>
       <mask>hadoop/*.pig</mask>
@@ -40,6 +33,14 @@
       <mask>ha*.pig</mask>
       <mask>h*.pig</mask>
       <mask>*.pig</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>ur</mask>
+      <mask>url</mask>
+      <mask>urls</mask>
+      <mask>urls.</mask>
+      <mask>urls.p</mask>
+      <mask>urls.py</mask>
     </recentFileMasks>
   </component>
 </application>
